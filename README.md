@@ -11,6 +11,7 @@ Cette bibliothèque développée en interne (42) rassemble le minimum nécéssai
 Ce projet est également l’occasion de nous initier à la programmation dite “evenementielle”.
 
 Vous trouverez également dans le repository un dossier "maps" contenant diverses cartes mises à disposition afin de pouvoir exécuter convenablement le programme, cependant rien ne vous empêche d'en créer d'autres !
+
 (INFO: Certaines cartes contiennent volontairement des erreurs de remplissage, afin de pouvoir tester certains cas d'erreurs)
 
 Toutes les fonctions présentes ont été prototypées dans le fichier "fdf.h" situé dans le dossier "includes" et nous utilisons egalement notre Libft mise à jour avec les fonctions précédemment utilisées au cours des derniers projets.
